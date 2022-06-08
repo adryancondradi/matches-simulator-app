@@ -1,11 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulator</string>
     <string name="txt_fab_simulator">Botão de Simulação de Partidas</string>
-    <string name="image_team_home">image team home</string>
-    <string name="image_team_visitor">image team visitor</string>
+    <string name="image_team_home">imagem time da casa</string>
+    <string name="image_team_visitor">imagem time de fora</string>
     <string name="score_four">4</string>
     <string name="score_one">1</string>
     <string name="versus">x</string>
     <string name="team_home">Brazil</string>
     <string name="team_visitor">Argentina</string>
+
 </resources>
